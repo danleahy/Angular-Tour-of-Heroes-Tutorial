@@ -1,4 +1,8 @@
-# Test1
+# Augular Tour of Heroes Tutorial 
+
+Re learning the baiscs of Augular to better understand the angular dependency mechanisms.
+
+Developed on WSL2 with VS Code
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.0.
 
